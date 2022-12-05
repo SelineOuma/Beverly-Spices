@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+}
+h4{
+    text-align: center;
+}
+
+.service{
+    
+    background-size: cover;
+    min-height: 100vh;
+}

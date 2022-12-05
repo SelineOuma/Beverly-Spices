@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.deliver{
+    background-color:grey;
+    
+    text-align: center;
+
+}
+
+.wrapper{
+    text-align: center;
+    justify-content: center;
+}
+button{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 8px;
+    color: beige;
+}

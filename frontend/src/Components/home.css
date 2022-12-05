@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+    font-weight: 4rem;
+    margin-top: 3rem;
+}
+h2{
+    
+    text-shadow: 2px;
+    color: brown;
+    text-align: center;
+    
+    font-style: oblique;
+}
+.home{
+    max-width: 100%;
+}
+.home1{
+    background-image: url('https://www.smallstarter.com/wp-content/uploads/2014/03/1._a_The_Spice_Business_in_Africa_3.jpg');
+    background-size: cover;
+    min-height:100vh ;
+
+}
+
+button{
+    text-decoration: none;
+    text-align: center;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    bottom: 0;
+    left: 0;
+    padding: 4rem;
+    background-color: rgb(38, 165, 163);
+    width: 100%;
+    text-align: center;
+    min-height:70vh ;
+    border-radius:25px;
+    justify-content: space-between;
+    
+}
+hr{
+    color: rgba(240, 238, 246, 0.875);
+    font-weight: 20pxrem;
+}
+
+.company{
+    display: flex;
+    flex-direction: column;
+    
+    text-align: justify;
+    text-align: center;
+}
+hr{
+    color: aliceblue;
+}
+
+
+.contact1{
+    display: flex;
+    flex-direction: column;
+}
+#deliver{
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    
+    
+}
+hr{
+    color: blue;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+#home1{
+    text-decoration: none;
+}
+#service1{
+    text-decoration: none;
+}
+#about1{
+    text-decoration: none;
+}
+#product1{
+    text-decoration: none;
+}
+#facebook{
+    text-decoration: none;
+}
+#twitter{
+    text-decoration: none;
+}
+#github{
+    text-decoration: none;
+}
+#phone{
+    text-decoration: none;
+}
+#youtube{
+    text-decoration: none;
+}

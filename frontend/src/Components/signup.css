@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+.signup{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 4rem;
+    background-color: grey;
+}

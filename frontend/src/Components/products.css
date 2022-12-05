@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    font-style: italic;
+    text-align: center;
+    
+}
+
+img{
+    height: 200px;
+    width: 300px;
+}
+
+.images{
+    display: flex;
+    justify-content: space-between;
+    flex-direction:row;
+    text-align: center;
+    margin-left: 3rem;
+    padding:2rem ;
+}
+.top{
+    margin-left: 3rem;
+}
+
+ button{
+text-decoration: none;
+border-radius: 20px;
+margin-top: 0.5rem;
+}
+
+.cardmon{
+    margin: 14px;
+}
+#btn{
+    text-decoration: none;
+    box-shadow: 1rem 1rem 1rem;
+}
+
+.paprika{
+    margin: 14px;
+    font-size: 22px;
+}
+
+.coriander{
+    margin: 14px;
+}
+
+.Red-chilli{
+    margin: 14px;
+}
+
+.mixed-herbs{
+    margin: 14px;
+}
+
+.pepper{
+    margin: 14px;
+}
+
+.mustard{
+    margin: 14px;
+}
+
+.ginger{
+    margin: 14px;
+}
+
+.cinnamon{
+    margin: 14px;
+}

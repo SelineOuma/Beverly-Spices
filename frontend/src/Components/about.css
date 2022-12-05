@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+.about{
+    background-image: url('https://thumbs.dreamstime.com/b/indian-spices-collection-also-called-red-chili-powder-turmeric-powder-coriander-powder-turmeric-stick-dry-chili-fenugreek-black-194138529.jpg');
+    background-size: cover;
+    min-height: 100vh;
+    text-align: center;
+    /* margin-top: 12rem; */
+}
+
+h3{
+    font-weight: lighter;
+    font-size: 2rem;
+
+}
